@@ -9,6 +9,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
+    width: 100%;
 }
 
 /* Hero Section Styling */
@@ -22,6 +23,7 @@ body {
     justify-content: center;
     color: #fff;
     text-align: center;
+    width: 100%;
 }
 
 .hero-content h1 {
